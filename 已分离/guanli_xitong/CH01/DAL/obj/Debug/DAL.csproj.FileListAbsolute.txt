@@ -1,0 +1,49 @@
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\DAL.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\bin\Debug\Model.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\DAL\obj\Debug\DAL.pdb

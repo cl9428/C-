@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58D16E3C-CC41-4810-AC12-F42693A93298}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CH01</RootNamespace>
+    <AssemblyName>CH01</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jiudian_guanliDataSet.cs">
+      <DependentUpon>jiudian_guanliDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="jiudian_guanliDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jiudian_guanliDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="yuangong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yuangong.Designer.cs">
+      <DependentUpon>yuangong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jiudian_guanliDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jiudian_guanliDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="log_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log_in.Designer.cs">
+      <DependentUpon>log_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zhuce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zhuce.Designer.cs">
+      <DependentUpon>zhuce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guest.Designer.cs">
+      <DependentUpon>guest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yuangong.resx">
+      <DependentUpon>yuangong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log_in.resx">
+      <DependentUpon>log_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zhuce.resx">
+      <DependentUpon>zhuce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guest.resx">
+      <DependentUpon>guest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="jiudian_guanliDataSet.xsc">
+      <DependentUpon>jiudian_guanliDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jiudian_guanliDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jiudian_guanliDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jiudian_guanliDataSet.xss">
+      <DependentUpon>jiudian_guanliDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jiudian_guanliDataSet1.xsc">
+      <DependentUpon>jiudian_guanliDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="jiudian_guanliDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jiudian_guanliDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jiudian_guanliDataSet1.xss">
+      <DependentUpon>jiudian_guanliDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="图标\PSD\Button.psd" />
+    <None Include="图标\PSD\Cols.psd" />
+    <None Include="图标\PSD\instant-access.psd" />
+    <None Include="图标\PSD\login.psd" />
+    <None Include="图标\PSD\Max.psd" />
+    <None Include="图标\PSD\Min.psd" />
+    <None Include="图标\PSD\OGLdpf.log" />
+    <None Include="图标\PSD\psd9512.psd" />
+    <None Include="图标\PSD\psd9513.psd" />
+    <None Include="图标\PSD\UserName and PassWord.psd" />
+    <None Include="图标\PSD\Write_in.psd" />
+    <None Include="图标\PSD\主窗体.psd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Cols.png" />
+    <Content Include="Resources\Cols2.png" />
+    <Content Include="Resources\Logo.ico" />
+    <Content Include="Resources\Logo.png" />
+    <Content Include="Resources\Min.png" />
+    <Content Include="Resources\Min2.png" />
+    <Content Include="Resources\下拉按钮.png" />
+    <Content Include="Resources\交班.png" />
+    <Content Include="Resources\信息.png" />
+    <Content Include="Resources\信息1.png" />
+    <Content Include="Resources\入住.png" />
+    <Content Include="Resources\入住透明.png" />
+    <Content Include="Resources\前台营业.jpg" />
+    <Content Include="Resources\后台配置.jpg" />
+    <Content Include="Resources\客人资料.png" />
+    <Content Include="Resources\客户.png" />
+    <Content Include="Resources\密码.png" />
+    <Content Include="Resources\库存管理.jpg" />
+    <Content Include="Resources\房务管理.jpg" />
+    <Content Include="Resources\按钮.png" />
+    <Content Include="Resources\按钮2.png" />
+    <Content Include="Resources\文本框.png" />
+    <Content Include="Resources\文本框2.png" />
+    <Content Include="Resources\文本框21.png" />
+    <Content Include="Resources\最大化.png" />
+    <None Include="Resources\注册.png" />
+    <Content Include="Resources\用户名.png" />
+    <Content Include="Resources\用户名1.png" />
+    <Content Include="Resources\用户名11.png" />
+    <Content Include="Resources\登录.png" />
+    <Content Include="Resources\登录框背景.png" />
+    <Content Include="Resources\登录框背景1.png" />
+    <Content Include="Resources\登录框背景11.png" />
+    <Content Include="Resources\订单信息.png" />
+    <Content Include="Resources\财务管理.jpg" />
+    <Content Include="Resources\软件注册.jpg" />
+    <Content Include="Resources\返回.png" />
+    <Content Include="Resources\退房.png" />
+    <Content Include="Resources\退房透明.png" />
+    <Content Include="Resources\选项图背景.png" />
+    <Content Include="图标\PNG\Cols.PNG" />
+    <Content Include="图标\PNG\Cols2.png" />
+    <Content Include="图标\PNG\Enter.png" />
+    <Content Include="图标\PNG\Logo.ico" />
+    <Content Include="图标\PNG\Logo.png" />
+    <Content Include="图标\PNG\Max.PNG" />
+    <Content Include="图标\PNG\Min.PNG" />
+    <Content Include="图标\PNG\Min2.png" />
+    <Content Include="图标\PNG\PassWord.png" />
+    <Content Include="图标\PNG\Register.png" />
+    <Content Include="图标\PNG\UserName.PNG" />
+    <Content Include="图标\PNG\Write_in.png" />
+    <Content Include="图标\PNG\下拉按钮.png" />
+    <Content Include="图标\PNG\按钮.png" />
+    <Content Include="图标\PNG\按钮2.png" />
+    <Content Include="图标\PNG\文本框 - 副本.png" />
+    <Content Include="图标\PNG\文本框.png" />
+    <Content Include="图标\PNG\文本框2.png" />
+    <Content Include="图标\PNG\无标题.png" />
+    <Content Include="图标\PNG\无标题2.png" />
+    <Content Include="图标\PNG\最大化.png" />
+    <Content Include="图标\PNG\登陆框.png" />
+    <Content Include="图标\PNG\选项图背景.png" />
+    <Content Include="图标\原图\1199462.png" />
+    <Content Include="图标\原图\1199468.png" />
+    <Content Include="图标\原图\1199477.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{AE2A1B69-0A8B-4BB4-8EE1-4928AF25C574}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{E581CAFE-C111-41AB-A5CA-47F11C5BC406}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{203245E4-DDAE-4244-B6E7-D854718407F7}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

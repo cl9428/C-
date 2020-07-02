@@ -1,0 +1,200 @@
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form1.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form1.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\DAL.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\DAL.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form1.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form1.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+G:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form1.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Users\jf\Desktop\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+G:\常亮\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+G:\常亮\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Documents and Settings\Administrator\桌面\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+I:\常亮\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+I:\常亮\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+I:\常亮\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Users\常亮\Desktop\未分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe.config
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.exe
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csprojResolveAssemblyReference.cache
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.main.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.yuangong.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.log_in.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Form2.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.zhuce.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.guest.resources
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\jiudian_gaunli.csproj.GenerateResource.Cache
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.exe
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\CH01.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\BLL.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\DAL.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\bin\Debug\Model.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\CH01\obj\x86\Debug\CH01.Properties.Resources.resources

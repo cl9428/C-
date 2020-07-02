@@ -1,0 +1,30 @@
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+F:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+I:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+H:\C#程序代码\项目\guanli_xitong\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+C:\Users\常亮\Desktop\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+C:\Users\常亮\Desktop\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\Model\bin\Debug\Model.pdb
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.dll
+E:\U盘备份\大二\C#程序代码\C#  项目\已分离\guanli_xitong\CH01\Model\obj\Debug\Model.pdb
